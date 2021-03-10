@@ -19,7 +19,7 @@ tensorflow-gpu
 
 This project was done with colaboration with Singapore University of Technology, iTrust. Data used to train and test was retrieved from Singapore University of Technology, iTrust.
 
-[SUTD iTrust Website]<https://itrust.sutd.edu.sg/>
+[SUTD iTrust Website](https://itrust.sutd.edu.sg/)
 
 ## Known Issues
 
